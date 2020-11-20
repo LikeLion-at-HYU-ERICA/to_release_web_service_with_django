@@ -1,1 +1,0 @@
-# to_release_web_service_with_django
