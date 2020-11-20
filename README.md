@@ -1,7 +1,7 @@
 # 장고 서비스 AWS EC2를 이용하여 배포하기 강의
 
 
-<img src="https://user-images.githubusercontent.com/63117632/99804066-c4f18100-2b7d-11eb-9889-3f713e843c36.png" width="1000px" height="1000px">
+<img src="https://user-images.githubusercontent.com/63117632/99805181-73e28c80-2b7f-11eb-8a67-ce7b2300e527.png">
 
 문돌이도 해내는 배포, 이제는 맘껏 해보자!
 
