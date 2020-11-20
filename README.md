@@ -22,4 +22,4 @@ https://drive.google.com/file/d/1kbBf-J1P45Wkt4rg0ybdNHfykeyQtx8_/view?usp=shari
 <br>
 <br>
 <br>
-copyright(c) 2002 All rights reserved by Likelion at hanyang univ. ERICA 8th Lotte_Clanedar team
+copyright(c) 2020 All rights reserved by Likelion at hanyang univ. ERICA 8th Lotte_Clanedar team
